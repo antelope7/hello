@@ -1,0 +1,5 @@
+Set-ExplorerOptions -showProtectedOSFiles -showFileExtensions
+
+Enable-RemoteDesktop
+
+cinst adobereader
